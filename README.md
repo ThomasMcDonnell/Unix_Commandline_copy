@@ -5,6 +5,6 @@ of unix style command line tools. This is not perfect and the code is not
 beautiful but hopfully will get better as time goes on. 
 
 The main purpose of these miny projects are to develop a better understanding 
-of argparse library and to learn more about the build in unix commandline tools.
+of argparse library and to learn more about the built in unix commandline tools.
 
 
